@@ -3,8 +3,13 @@ content_type: resource
 description: This resource contains information related to key elements of the value
   chain, possible failure modes of sega, capabilities of Sega, and critical path for
   the CPM exercise.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-760a-operations-management-spring-2002/6228bd01545da74f70d3948b29a5ce31_lecture2_feb8.pdf
+file: /media/courses/15-760a-operations-management-spring-2002/6228bd01545da74f70d3948b29a5ce31_lecture2_feb8.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lecture2_feb8.pdf
 uid: 6228bd01-545d-a74f-70d3-948b29a5ce31
