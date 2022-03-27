@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: e32fe1d5-da9f-30cc-60c0-6a4e9f4b3fab
 resourcetype: Other
 title: VideoLaunch.xls
 uid: 5e1a807b-a223-25b9-840a-fc4fa76036a6
