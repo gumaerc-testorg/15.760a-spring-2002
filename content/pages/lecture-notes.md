@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -26,7 +27,7 @@ TOPICS
 {{< tdclose >}}
 {{< tdopen >}}
 Introduction  
-Operations Overview ([PDF]({{< baseurl >}}/resources/lecture1_feb6))
+Operations Overview ({{% resource_link 350ca197-1151-cbd2-438c-ca86b11586d1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -36,7 +37,7 @@ Operations Overview ([PDF]({{< baseurl >}}/resources/lecture1_feb6))
 {{< tdclose >}}
 {{< tdopen >}}
 Project Management  
-New Product Development and 3-DCE ([PDF]({{< baseurl >}}/resources/lecture2_feb8))
+New Product Development and 3-DCE ({{% resource_link 6228bd01-545d-a74f-70d3-948b29a5ce31 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -46,7 +47,7 @@ New Product Development and 3-DCE ([PDF]({{< baseurl >}}/resources/lecture2_feb
 {{< tdclose >}}
 {{< tdopen >}}
 Operations Strategy  
-Operations Analysis ([PDF]({{< baseurl >}}/resources/lecture3_feb11))
+Operations Analysis ({{% resource_link 98f839de-f770-4803-20ac-42c7f5d43e98 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -55,7 +56,7 @@ Operations Analysis ([PDF]({{< baseurl >}}/resources/lecture3_feb11))
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Inventory Management ([PDF]({{< baseurl >}}/resources/lecture4_feb13))
+Inventory Management ({{% resource_link 1dd40be3-878a-2145-47de-a92c45807512 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -64,7 +65,7 @@ Inventory Management ([PDF]({{< baseurl >}}/resources/lecture4_feb13))
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Process Technology ([PDF]({{< baseurl >}}/resources/lecture5_feb15))
+Process Technology ({{% resource_link 5af8dd36-b0ac-0883-256a-edc998b873e5 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -73,7 +74,7 @@ Process Technology ([PDF]({{< baseurl >}}/resources/lecture5_feb15))
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Process Technology (cont.) ([PDF]({{< baseurl >}}/resources/lecture6_feb19))
+Process Technology (cont.) ({{% resource_link 2f668f1d-9c61-421f-89d3-6f8c806bba52 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -83,7 +84,7 @@ Process Technology (cont.) ([PDF]({{< baseurl >}}/resources/lecture6_feb19))
 {{< tdclose >}}
 {{< tdopen >}}
 Process Technology  
-ERP Systems ([PDF]({{< baseurl >}}/resources/lecture7_feb20))
+ERP Systems ({{% resource_link 9c5b7fa1-03a6-8eb2-7bb0-c3b62cfd9d6a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -93,7 +94,7 @@ ERP Systems ([PDF]({{< baseurl >}}/resources/lecture7_feb20))
 {{< tdclose >}}
 {{< tdopen >}}
 Process Analysis  
-Process Flow Models ([PDF]({{< baseurl >}}/resources/lecture8_feb22))
+Process Flow Models ({{% resource_link e6c66bef-8fc3-7c9f-4928-ea8f816895ab "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -102,7 +103,7 @@ Process Flow Models ([PDF]({{< baseurl >}}/resources/lecture8_feb22))
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Process Quality ([PDF]({{< baseurl >}}/resources/lecture9_feb25))
+Process Quality ({{% resource_link 17adf843-dca1-8a93-33f9-d2270a4221a2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -112,7 +113,7 @@ Process Quality ([PDF]({{< baseurl >}}/resources/lecture9_feb25))
 {{< tdclose >}}
 {{< tdopen >}}
 Process Analysis  
-Queueing Systems ([PDF]({{< baseurl >}}/resources/lecture10_feb27))
+Queueing Systems ({{% resource_link dc38ce01-e66b-6f54-9422-f8af50dee6c0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -122,7 +123,7 @@ Queueing Systems ([PDF]({{< baseurl >}}/resources/lecture10_feb27))
 {{< tdclose >}}
 {{< tdopen >}}
 Process Quality  
-Quality Tools and Philosophies ([PDF]({{< baseurl >}}/resources/lecture11_mar1))
+Quality Tools and Philosophies ({{% resource_link 927c9f96-db9a-d037-6336-2d79d8310dcb "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -133,9 +134,9 @@ Quality Tools and Philosophies ([PDF]({{< baseurl >}}/resources/lecture11_mar1))
 {{< tdopen >}}
 
 
-Process Quality ([PDF]({{< baseurl >}}/resources/lecture12_mar4))  
-TQM Process Capability ([PDF]({{< baseurl >}}/resources/tqmprocesscapab))  
-Toyota Production System ([PDF]({{< baseurl >}}/resources/lecture13_mar6))
+Process Quality ({{% resource_link 49387e26-1bad-0635-dc7f-561c13009c48 "PDF" %}})  
+TQM Process Capability ({{% resource_link 639572be-7af7-e1fd-6f8b-cc139d55e889 "PDF" %}})  
+Toyota Production System ({{% resource_link bbdfab4d-b9c5-f2d5-f945-941c82a2a556 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -165,7 +166,7 @@ Management of Constraints
 16
 {{< tdclose >}}
 {{< tdopen >}}
-Supply Chain Design ([PDF]({{< baseurl >}}/resources/lecture16_mar13))
+Supply Chain Design ({{% resource_link c5ff702f-a541-0ea6-cb76-05ba97cf7601 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -185,7 +186,7 @@ Postponement
 {{< tdclose >}}
 {{< tdopen >}}
 Supply Chain Management  
-Vendor-managed Inventory ([PDF]({{< baseurl >}}/resources/lecture18_mar18))
+Vendor-managed Inventory ({{% resource_link 3a259788-7c58-0db1-a780-7bd1731b7280 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
