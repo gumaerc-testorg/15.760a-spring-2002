@@ -5,6 +5,7 @@ file: /courses/15-760a-operations-management-spring-2002/5e1a807ba22325b9840afc4
 file_type: application/msword
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: VideoLaunch.xls
 uid: 5e1a807b-a223-25b9-840a-fc4fa76036a6
 ---
 Excel file with data for a fictitious video game platform project
-

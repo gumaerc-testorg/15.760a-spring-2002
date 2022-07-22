@@ -5,6 +5,7 @@ file: /courses/15-760a-operations-management-spring-2002/639572be7af7e1fd6f8bcc1
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: tqmprocesscapab.pdf
 uid: 639572be-7af7-e1fd-6f8b-cc139d55e889
 ---
 Process Capability
-

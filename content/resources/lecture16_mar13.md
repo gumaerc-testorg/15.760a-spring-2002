@@ -6,6 +6,7 @@ file: /courses/15-760a-operations-management-spring-2002/c5ff702fa5410ea6cb7605b
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture16_mar13.pdf
 uid: c5ff702f-a541-0ea6-cb76-05ba97cf7601
 ---
 This resource contains information related to supply chain, technology supply chain design, value chain mapping and double hain helix.
-

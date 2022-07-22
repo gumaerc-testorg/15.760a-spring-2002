@@ -6,6 +6,7 @@ file: /courses/15-760a-operations-management-spring-2002/5af8dd36b0ac0883256aedc
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture5_feb15.pdf
 uid: 5af8dd36-b0ac-0883-256a-edc998b873e5
 ---
 This resource contains information related to peapod, webvan, characteristics of services, and hubs.
-

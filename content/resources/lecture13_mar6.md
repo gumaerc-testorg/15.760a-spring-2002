@@ -6,6 +6,7 @@ file: /courses/15-760a-operations-management-spring-2002/bbdfab4db9c5f2d5f945941
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture13_mar6.pdf
 uid: bbdfab4d-b9c5-f2d5-f945-941c82a2a556
 ---
 This resource contains information related to admin, principles of TPS, logic and processes of JIT improvement.
-
