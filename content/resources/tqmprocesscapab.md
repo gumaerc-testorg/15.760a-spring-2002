@@ -2,6 +2,7 @@
 content_type: resource
 description: Process Capability
 file: /courses/15-760a-operations-management-spring-2002/639572be7af7e1fd6f8bcc139d55e889_tqmprocesscapab.pdf
+file_size: 78773
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
