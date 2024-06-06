@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information related to sloanspace, namecards,
   courseIntro, dellpaq problem, and fruitfly problem.
 file: /courses/15-760a-operations-management-spring-2002/1dd40be3878a214547dea92c45807512_lecture4_feb13.pdf
+file_size: 233685
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
