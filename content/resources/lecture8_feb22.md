@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to fish processing example,
   capacity utilization in stochastic systems, and management of queues.
-file: /courses/15-760a-operations-management-spring-2002/e6c66bef8fc37c9f4928ea8f816895ab_lecture8_feb22.pdf
+file: /ol-ocw-studio-app/courses/15-760a-operations-management-spring-2002/e6c66bef8fc37c9f4928ea8f816895ab_lecture8_feb22.pdf
 file_size: 386021
 file_type: application/pdf
 learning_resource_types:
