@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to foundational components
   of operations management and management of queues.
-file: /ol-ocw-studio-app/courses/15-760a-operations-management-spring-2002/3a2597887c580db1a7807bd1731b7280_lecture18_mar18.pdf
+file: /courses/15-760a-operations-management-spring-2002/3a2597887c580db1a7807bd1731b7280_lecture18_mar18.pdf
 file_size: 566696
 file_type: application/pdf
 learning_resource_types:
