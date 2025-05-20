@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Excel file with data for a fictitious video game platform project
-file: /ol-ocw-studio-app/courses/15-760a-operations-management-spring-2002/5e1a807ba22325b9840afc4fa76036a6_VideoLaunch.xls
+file: /courses/15-760a-operations-management-spring-2002/5e1a807ba22325b9840afc4fa76036a6_VideoLaunch.xls
 file_size: 16384
 file_type: application/msword
 learning_resource_types:
