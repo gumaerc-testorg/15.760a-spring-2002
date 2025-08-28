@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to admin, principles of TPS,
   logic and processes of JIT improvement.
-file: /courses/15-760a-operations-management-spring-2002/bbdfab4db9c5f2d5f945941c82a2a556_lecture13_mar6.pdf
+file: /ol-ocw-studio-app/courses/15-760a-operations-management-spring-2002/bbdfab4db9c5f2d5f945941c82a2a556_lecture13_mar6.pdf
 file_size: 142688
 file_type: application/pdf
 learning_resource_types:
